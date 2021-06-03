@@ -1,2 +1,0 @@
-# blogpage
-Booksluva Blogpage
